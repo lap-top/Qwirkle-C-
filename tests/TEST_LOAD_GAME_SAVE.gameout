@@ -1,0 +1,168 @@
+Welcome to Qwirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+> Enter the filename from which load a game 
+> PREDATOR, it's your turn
+Score for ALIEN: 3
+Score for PREDATOR: 2
+   0  1  2  3  4  5 
+  ------------------
+A |  |G5|G3|  |  |  |
+B |  |R5|  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+B3, R4, R2, P4, O1, Y2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+PREDATOR, it's your turn
+Score for ALIEN: 3
+Score for PREDATOR: 2
+   0  1  2  3  4  5 
+  ------------------
+A |  |G5|G3|  |  |  |
+B |  |R5|  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+B3, R4, R2, P4, O1, Y2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+ALIEN, it's your turn
+Score for ALIEN: 3
+Score for PREDATOR: 4
+   0  1  2  3  4  5 
+  ------------------
+A |  |G5|G3|  |  |  |
+B |R2|R5|  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+P2, O5, G6, Y3, Y4, O1
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+PREDATOR, it's your turn
+Score for ALIEN: 5
+Score for PREDATOR: 4
+   0  1  2  3  4  5 
+  ------------------
+A |  |G5|G3|  |  |  |
+B |R2|R5|  |  |  |  |
+C |P2|  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+R4, B3, R4, P4, O1, Y2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+ALIEN, it's your turn
+Score for ALIEN: 5
+Score for PREDATOR: 4
+   0  1  2  3  4  5 
+  ------------------
+A |  |G5|G3|  |  |  |
+B |R2|R5|  |  |  |  |
+C |P2|  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y6, O5, G6, Y3, Y4, O1
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+PREDATOR, it's your turn
+Score for ALIEN: 5
+Score for PREDATOR: 4
+   0  1  2  3  4  5 
+  ------------------
+A |  |G5|G3|  |  |  |
+B |R2|R5|  |  |  |  |
+C |P2|  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+G2, R4, B3, R4, P4, Y2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+Game has been saved successfully.
+PREDATOR, it's your turn
+Score for ALIEN: 5
+Score for PREDATOR: 4
+   0  1  2  3  4  5 
+  ------------------
+A |  |G5|G3|  |  |  |
+B |R2|R5|  |  |  |  |
+C |P2|  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+G2, R4, B3, R4, P4, Y2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+Game over
+Score for ALIEN: 5
+Score for PREDATOR: 4
+Goodbye

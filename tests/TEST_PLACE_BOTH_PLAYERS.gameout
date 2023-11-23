@@ -1,0 +1,127 @@
+Welcome to Qwirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+> Starting a New Game
+Enter a name for player 1 (alphabetical characters only)
+> Enter a name for player 2 (alphabetical characters only)
+> 
+Let's Play!
+SCOTT, it's your turn
+Score for SCOTT: 0
+Score for LEDY: 0
+   0  1  2  3  4  5 
+  ------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y3, G5, G3, G6, O5, P2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+LEDY, it's your turn
+Score for SCOTT: 1
+Score for LEDY: 0
+   0  1  2  3  4  5 
+  ------------------
+A |  |G3|  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+O1, P4, R2, R5, R4, B3
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+SCOTT, it's your turn
+Score for SCOTT: 1
+Score for LEDY: 2
+   0  1  2  3  4  5 
+  ------------------
+A |  |G3|  |  |  |  |
+B |  |B3|  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y4, Y3, G5, G6, O5, P2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+LEDY, it's your turn
+Score for SCOTT: 4
+Score for LEDY: 2
+   0  1  2  3  4  5 
+  ------------------
+A |  |G3|  |  |  |  |
+B |  |B3|  |  |  |  |
+C |  |Y3|  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y2, O1, P4, R2, R5, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+SCOTT, it's your turn
+Score for SCOTT: 4
+Score for LEDY: 4
+   0  1  2  3  4  5 
+  ------------------
+A |  |G3|  |  |  |  |
+B |  |B3|  |  |  |  |
+C |  |Y3|Y2|  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+O1, Y4, G5, G6, O5, P2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+Game over
+Score for SCOTT: 4
+Score for LEDY: 4
+Goodbye

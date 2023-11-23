@@ -1,0 +1,48 @@
+1
+Blue
+Red
+place G5 at A0
+place R5 at A1
+place G3 at B0
+replace B3
+place G6 at C0
+replace O1
+place P5 at A2
+place P4 at B2
+place P2 at C2
+place P1 at D2
+place B1 at D3
+place Y1 at D4
+place Y3 at C4
+place Y2 at B4
+place Y5 at A4
+replace R1
+place Y4 at E4
+replace R1
+replace O1
+replace Y3
+replace G3
+replace B4
+replace B3
+replace O4
+replace Y5 
+replace Y2
+replace P3
+replace R2
+replace B4
+replace B4
+replace O6
+replace R2
+replace O5 
+replace R4
+replace G3
+replace Y3
+replace O1
+replace B2
+replace R1
+replace B5
+replace R6
+replace P5
+replace O1
+place Y6 at F4
+quit

@@ -1,0 +1,11 @@
+1
+PREDATOR
+ALIEN
+place G5 at A1
+place R5 at B1
+place O5 at C1
+replace R2
+replace G3
+save 
+save TEST_SAVE_GAME_PLAY.expsave
+quit

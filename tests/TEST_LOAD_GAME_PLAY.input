@@ -1,0 +1,7 @@
+2
+TEST_LOAD_GAME_PLAY.save
+place R2 at B0
+place P2 at C0
+replace O1
+replace O5
+quit

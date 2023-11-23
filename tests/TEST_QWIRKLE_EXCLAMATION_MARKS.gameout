@@ -1,0 +1,1108 @@
+Welcome to Qwirkle!
+-------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+> Starting a New Game
+Enter a name for player 1 (alphabetical characters only)
+> Enter a name for player 2 (alphabetical characters only)
+> 
+Let's Play!
+BLUE, it's your turn
+Score for BLUE: 0
+Score for RED: 0
+   0  1  2  3  4  5 
+  ------------------
+A |  |  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y3, G5, G3, G6, O5, P2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 1
+Score for RED: 0
+   0  1  2  3  4  5 
+  ------------------
+A |G5|  |  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+O1, P4, R2, R5, R4, B3
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 1
+Score for RED: 2
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|  |  |  |  |
+B |  |  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y4, Y3, G3, G6, O5, P2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 3
+Score for RED: 2
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|  |  |  |  |
+B |G3|  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y2, O1, P4, R2, R4, B3
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 3
+Score for RED: 2
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|  |  |  |  |
+B |G3|  |  |  |  |  |
+C |  |  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+O1, Y4, Y3, G6, O5, P2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 6
+Score for RED: 2
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|  |  |  |  |
+B |G3|  |  |  |  |  |
+C |G6|  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y1, Y2, O1, P4, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 6
+Score for RED: 2
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|  |  |  |  |
+B |G3|  |  |  |  |  |
+C |G6|  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+P5, O1, Y4, Y3, O5, P2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 9
+Score for RED: 2
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |  |  |
+B |G3|  |  |  |  |  |
+C |G6|  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+P1, Y1, Y2, P4, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 9
+Score for RED: 4
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |  |  |
+B |G3|  |P4|  |  |  |
+C |G6|  |  |  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+B1, O1, Y4, Y3, O5, P2
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 12
+Score for RED: 4
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |  |  |
+B |G3|  |P4|  |  |  |
+C |G6|  |P2|  |  |  |
+D |  |  |  |  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y3, P1, Y1, Y2, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 12
+Score for RED: 8
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |  |  |
+B |G3|  |P4|  |  |  |
+C |G6|  |P2|  |  |  |
+D |  |  |P1|  |  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+O6, B1, O1, Y4, Y3, O5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 14
+Score for RED: 8
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |  |  |
+B |G3|  |P4|  |  |  |
+C |G6|  |P2|  |  |  |
+D |  |  |P1|B1|  |  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+R1, Y3, Y1, Y2, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 14
+Score for RED: 11
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |  |  |
+B |G3|  |P4|  |  |  |
+C |G6|  |P2|  |  |  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y5, O6, O1, Y4, Y3, O5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 16
+Score for RED: 11
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |  |  |
+B |G3|  |P4|  |  |  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+R1, R1, Y3, Y2, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 16
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |  |  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+B4, Y5, O6, O1, Y4, O5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 20
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+B4, R1, R1, Y3, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 20
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |  |  |
+F |  |  |  |  |  |  |
+
+Your hand is
+G3, B4, O6, O1, Y4, O5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+R2, B4, R1, Y3, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+P3, G3, B4, O6, O1, O5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y2, R2, B4, Y3, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y5, P3, G3, B4, O6, O5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+O4, Y2, R2, B4, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+B3, Y5, P3, B4, O6, O5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+B3, O4, Y2, R2, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+P5, Y5, P3, B4, O6, O5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+R3, B3, Y2, R2, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+B5, P5, P3, B4, O6, O5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+O3, R3, B3, R2, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+B2, B5, P5, B4, O6, O5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+R6, O3, R3, B3, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+-----------------
+ERROR - TRY AGAIN
+-----------------
+--- MAKE SURE ---
+
+ - make sure your input is of the format:
+replace [tile colour][tile shape]
+
+- your tile exists in your hand
+
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+G4, B2, B5, P5, O6, O5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+R6, O3, R3, B3, R2, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+P6, G4, B2, B5, P5, O5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+P1, R6, O3, R3, B3, R4
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+R3, P6, G4, B2, B5, P5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+-----------------
+ERROR - TRY AGAIN
+-----------------
+--- MAKE SURE ---
+
+ - make sure your input is of the format:
+replace [tile colour][tile shape]
+
+- your tile exists in your hand
+
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y6, P1, R6, O3, R3, B3
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+-----------------
+ERROR - TRY AGAIN
+-----------------
+--- MAKE SURE ---
+
+ - make sure your input is of the format:
+replace [tile colour][tile shape]
+
+- your tile exists in your hand
+
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+R3, P6, G4, B2, B5, P5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+-----------------
+ERROR - TRY AGAIN
+-----------------
+--- MAKE SURE ---
+
+ - make sure your input is of the format:
+replace [tile colour][tile shape]
+
+- your tile exists in your hand
+
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y6, P1, R6, O3, R3, B3
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+-----------------
+ERROR - TRY AGAIN
+-----------------
+--- MAKE SURE ---
+
+ - make sure your input is of the format:
+replace [tile colour][tile shape]
+
+- your tile exists in your hand
+
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+R3, P6, G4, B2, B5, P5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+-----------------
+ERROR - TRY AGAIN
+-----------------
+--- MAKE SURE ---
+
+ - make sure your input is of the format:
+replace [tile colour][tile shape]
+
+- your tile exists in your hand
+
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y6, P1, R6, O3, R3, B3
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+-----------------
+ERROR - TRY AGAIN
+-----------------
+--- MAKE SURE ---
+
+ - make sure your input is of the format:
+replace [tile colour][tile shape]
+
+- your tile exists in your hand
+
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+R3, P6, G4, B2, B5, P5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+-----------------
+ERROR - TRY AGAIN
+-----------------
+--- MAKE SURE ---
+
+ - make sure your input is of the format:
+replace [tile colour][tile shape]
+
+- your tile exists in your hand
+
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y6, P1, R6, O3, R3, B3
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+-----------------
+ERROR - TRY AGAIN
+-----------------
+--- MAKE SURE ---
+
+ - make sure your input is of the format:
+replace [tile colour][tile shape]
+
+- your tile exists in your hand
+
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+R3, P6, G4, B2, B5, P5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+-----------------
+ERROR - TRY AGAIN
+-----------------
+--- MAKE SURE ---
+
+ - make sure your input is of the format:
+replace [tile colour][tile shape]
+
+- your tile exists in your hand
+
+RED, it's your turn
+Score for BLUE: 25
+Score for RED: 14
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |  |  |
+
+Your hand is
+Y6, P1, R6, O3, R3, B3
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+QWIRKLE!!!
+BLUE, it's your turn
+Score for BLUE: 25
+Score for RED: 26
+   0  1  2  3  4  5 
+  ------------------
+A |G5|R5|P5|  |Y5|  |
+B |G3|  |P4|  |Y2|  |
+C |G6|  |P2|  |Y3|  |
+D |  |  |P1|B1|Y1|  |
+E |  |  |  |  |Y4|  |
+F |  |  |  |  |Y6|  |
+
+Your hand is
+R3, P6, G4, B2, B5, P5
+
+Game Menu Options
+-----------------
+place
+replace
+save
+quit
+-----------------
+Game over
+Score for BLUE: 25
+Score for RED: 26
+Goodbye
